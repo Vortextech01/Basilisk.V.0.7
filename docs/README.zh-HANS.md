@@ -19,7 +19,7 @@
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 <a href="https://twitter.com/asimdotshrestha/status/1644883727707959296">🐦 推特</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://discord.gg/gcmNyAAFfV">📢 Discord</a>
+<a href="https://discord.gg/gcmNyAAFfV">📢 Discordd</a>
 </p>
 
 ---
