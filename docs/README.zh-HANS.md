@@ -19,7 +19,7 @@
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
 <a href="https://twitter.com/asimdotshrestha/status/1644883727707959296">🐦 推特</a>
 <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-<a href="https://discord.gg/3PccggEG">📢 Discord</a>
+<a href="https://discord.gg/gcmNyAAFfV">📢 Discord</a>
 </p>
 
 ---
@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-通过赞助这个开源项目，你不仅有机会在下方展示你的头像/徽标，还可以与创始人独家交流！ 🗣️ 
+通过赞助这个开源项目，你不仅有机会在下方展示你的头像/徽标，还可以与创始人独家交流！ 🗣️
 </p>
 
 <p align="center">
@@ -47,6 +47,12 @@
 <div align="center" dir="auto">
   <a href="https://github.com/Faitltd" style="display: inline-block; margin-right: 20px;">
     <img src="https://github.com/Faitltd.png" width="50px" alt="faithltd" style="max-width:100%;">
+  </a>
+  <a href="https://github.com/mojosolo" style="display: inline-block; margin-right: 20px;">
+    <img src="https://github.com/mojosolo.png" width="50px" alt="mojosolo" style="max-width:100%;">
+  </a>
+  <a href="https://github.com/0xmatchmaker" style="display: inline-block; margin-right: 20px;">
+    <img src="https://github.com/0xmatchmaker.png" width="50px" alt="0xmatchmaker" style="max-width:100%;">
   </a>
   <a href="https://github.com/arthurbnhm" style="display: inline-block;">
     <img src="https://github.com/arthurbnhm.png" width="50px" alt="arthurbnhm" style="max-width:100%;">
@@ -90,6 +96,18 @@
   <a href="https://github.com/Mitchell-Coder-New" style="display: inline-block;">
     <img src="https://github.com/Mitchell-Coder-New.png" width="50px" alt="Mitchell-Coder-New" style="max-width:100%;">
   </a>
+  <a href="https://github.com/nnkostov" style="display: inline-block;">
+    <img src="https://github.com/nnkostov.png" width="50px" alt="nnkostov" style="max-width:100%;">
+  </a>
+  <a href="https://github.com/cmtadvogados" style="display: inline-block;">
+    <img src="https://github.com/cmtadvogados.png" width="50px" alt="cmtadvogados" style="max-width:100%;">
+  </a>
+  <a href="https://github.com/Sphilly05" style="display: inline-block;">
+    <img src="https://github.com/Sphilly05.png" width="50px" alt="Sphilly05" style="max-width:100%;">
+  </a>
+  <a href="https://github.com/Tweezamiza" style="display: inline-block;">
+    <img src="https://github.com/Tweezamiza.png" width="50px" alt="Tweezamiza" style="max-width:100%;">
+  </a>
   <a href="https://github.com/mrayonnaise" style="display: inline-block;">
     <img src="https://github.com/mrayonnaise.png" width="50px" alt="mrayonnaise" style="max-width:100%;">
   </a>
@@ -114,7 +132,7 @@
    <a href="https://github.com/sorrynothing" style="display: inline-block;">
     <img src="https://github.com/sorrynothing.png" width="50px" alt="sorrynothing" style="max-width:100%;">
   </a>
-  
+
 </div>
 
 ---
@@ -123,7 +141,7 @@ AgentGPT 可以让你配置和部署 AI 代理。
 为你定制的 AI 命名，并让它执行任何可以想象的目标。
 AI 代理会先思考再执行任务。执行完任务后会学习成果 🚀.
 
-## 🎉 Roadmap
+## 🎉 路线图
 
 该平台目前处于测试阶段，以下是我们的路线图：
 
@@ -137,7 +155,7 @@ AI 代理会先思考再执行任务。执行完任务后会学习成果 🚀.
 
 即将推出更多功能...
 
-## 🚀 Tech Stack
+## 🚀 技术栈
 
 - ✅ **Bootstrapping**: [create-t3-app](https://create.t3.gg).
 - ✅ **Framework**: [Nextjs 13 + Typescript](https://nextjs.org/).
@@ -148,9 +166,9 @@ AI 代理会先思考再执行任务。执行完任务后会学习成果 🚀.
 - ✅ **Typescript Schema Validation**: [Zod](https://github.com/colinhacks/zod).
 - ✅ **End-to-end typesafe API**: [tRPC](https://trpc.io/).
 
-## 👨‍🚀 Getting Started
+## 👨‍🚀 使用方法
 
-### 🐳 Docker Setup
+### 🐳 Docker安装
 
 Docker 是在本地运行 AgentGPT 最简单的方法。
 以下是一个方便的设置脚本。
@@ -159,7 +177,7 @@ Docker 是在本地运行 AgentGPT 最简单的方法。
 ./setup.sh --docker
 ```
 
-### 👷 Local Development Setup
+### 👷 本地开发
 
 如果你想在本地开发 AgentGPT，最简单的方法是使用以下的设置脚本。
 
@@ -167,7 +185,7 @@ Docker 是在本地运行 AgentGPT 最简单的方法。
 ./setup.sh --local
 ```
 
-### 🛠️ Manual Setup
+### 🛠️ 自定义安装
 
 > 🚧 你需要安装 [Nodejs +18 (LTS recommended)](https://nodejs.org/en/)。
 
@@ -241,3 +259,64 @@ npm run dev
 ```
 npm run dev
 ```
+
+---
+
+<h3 align="center">
+🙌🏻 Our Sponsers Continued 🙌🏻
+</h3>
+
+<div align="center" dir="auto">
+  <a href="https://github.com/Trecares" style="display: inline-block; margin-right: 20px;">
+    <img src="https://github.com/Trecares.png" width="50px" alt="Trecares" style="max-width:100%;">
+  </a>
+  <a href="https://github.com/oryanmoshe" style="display: inline-block; margin-right: 20px;">
+    <img src="https://github.com/oryanmoshe.png" width="50px" alt="oryanmoshe" style="max-width:100%;">
+  </a>
+  <a href="https://github.com/rekimcn" style="display: inline-block; margin-right: 20px;">
+    <img src="https://github.com/rekimcn.png" width="50px" alt="rekimcn" style="max-width:100%;">
+  </a>
+  <a href="https://github.com/qwe777897" style="display: inline-block; margin-right: 20px;">
+    <img src="https://github.com/qwe777897.png" width="50px" alt="qwe777897" style="max-width:100%;">
+  </a>
+  <a href="https://github.com/ClayNelson" style="display: inline-block; margin-right: 20px;">
+    <img src="https://github.com/ClayNelson.png" width="50px" alt="ClayNelson" style="max-width:100%;">
+  </a>
+  <a href="https://github.com/xuxizhen" style="display: inline-block; margin-right: 20px;">
+    <img src="https://github.com/xuxizhen.png" width="50px" alt="xuxizhen" style="max-width:100%;">
+  </a>
+  <a href="https://github.com/destro225" style="display: inline-block; margin-right: 20px;">
+    <img src="https://github.com/destro225.png" width="50px" alt="destro225" style="max-width:100%;">
+  </a>
+  <a href="https://github.com/mouhaxp" style="display: inline-block; margin-right: 20px;">
+    <img src="https://github.com/mouhaxp.png" width="50px" alt="mouhaxp" style="max-width:100%;">
+  </a>
+  <a href="https://github.com/carlosbartolomeu" style="display: inline-block; margin-right: 20px;">
+    <img src="https://github.com/carlosbartolomeu.png" width="50px" alt="carlosbartolomeu" style="max-width:100%;">
+  </a>
+  <a href="https://github.com/Agronobeetles" style="display: inline-block; margin-right: 20px;">
+    <img src="https://github.com/Agronobeetles.png" width="50px" alt="Agronobeetles " style="max-width:100%;">
+  </a>
+  <a href="https://github.com/CloudyGuyThompson" style="display: inline-block; margin-right: 20px;">
+    <img src="https://github.com/CloudyGuyThompson.png" width="50px" alt="CloudyGuyThompson" style="max-width:100%;">
+  </a>
+  <a href="https://github.com/xinghz" style="display: inline-block; margin-right: 20px;">
+    <img src="https://github.com/xinghz.png" width="50px" alt="xinghz" style="max-width:100%;">
+  </a>
+  <a href="https://github.com/Jaimbart" style="display: inline-block; margin-right: 20px;">
+    <img src="https://github.com/Jaimbart.png" width="50px" alt="Jaimbart" style="max-width:100%;">
+  </a>
+  <a href="https://github.com/Jhonvolt17" style="display: inline-block; margin-right: 20px;">
+    <img src="https://github.com/Jhonvolt17.png" width="50px" alt="Jhonvolt17" style="max-width:100%;">
+  </a>
+  <a href="https://github.com/koltziver" style="display: inline-block; margin-right: 20px;">
+    <img src="https://github.com/koltziver.png" width="50px" alt="koltziver" style="max-width:100%;">
+  </a>
+  <a href="https://github.com/sirswali" style="display: inline-block; margin-right: 20px;">
+    <img src="https://github.com/sirswali.png" width="50px" alt="sirswali" style="max-width:100%;">
+  </a>
+  <a href="https://github.com/DixonFyre" style="display: inline-block; margin-right: 20px;">
+    <img src="https://github.com/DixonFyre.png" width="50px" alt="DixonFyre" style="max-width:100%;">
+  </a>
+
+</div>
